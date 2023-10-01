@@ -1,4 +1,5 @@
 # Audix3D
+This thing is under development please help if u're intreseted :(
 3D audio processing and Dolby audio making software for newbies who don't know how to make a 3D audio 
 
 
